@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "NewApptest",
+    "buildTool": "gradle",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "angular",
+    "clientPackageManager": "yarn",
+    "clientTheme": null,
+    "creationTimestamp": 1731677060808,
+    "databaseType": "mongodb",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "anotherSecretKey",
+    "microfrontend": true,
+    "nativeLanguage": null,
+    "otherLanguages": null,
+    "reactive": true,
+    "serviceDiscoveryType": "consul",
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling", "protractor"],
+    "websocket": "no"
+  }
+}
